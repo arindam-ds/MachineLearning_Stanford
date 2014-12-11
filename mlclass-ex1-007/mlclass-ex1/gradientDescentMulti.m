@@ -28,6 +28,10 @@ for iter = 1:num_iters
     end
     theta = theta_tmp;
 
+
+
+
+
     % ============================================================
 
     % Save the cost J in every iteration    
